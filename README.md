@@ -1,4 +1,4 @@
-# code-samples
+# Code-Samples
 Samples of Projects &amp; Prototyping highlighting CSS
 
 # Project List

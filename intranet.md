@@ -1,7 +1,7 @@
 # Intranet Re-Design Prototype and Wireframes
 As an intern with the University of Oklahoma Libraries web services department, I helped with the redesign of the “Intranet”. We wanted to improve the experience of the site to encourage meaningful social interactions, sharing of documents, and introspection from data statistics about library usage. Our challenge was to update the original design and provide users with an interface that streamlined uploading and viewing content.  
 
-My contribution was the design of the Document Upload Site. I created wireframes and a Bootstrap mockup before translating into a Drupal panels layout.  
+My contribution was the design of the Document Upload Site. I created wireframes and a Bootstrap mockup before translating these ideas into a Drupal panels layout.  
 
 ######Original Wireframe for Design 
 
